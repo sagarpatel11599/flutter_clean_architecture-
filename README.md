@@ -70,4 +70,4 @@ report, follow these steps to run it:
 
 ## Author
 
-Yamen Abdullrahman - Senior Flutter Developer;
+Sagar patel - Senior Flutter Developer;
